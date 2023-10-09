@@ -8,9 +8,9 @@ Firstly, you need to configure the server part of the application.
 
 In the server folder, create a `.env` file with the following variables:
 
-REFRESH_SECRET=Your secret
+REFRESH_SECRET=Your secret (random symbol combination)
 
-ACCESS_SECRET=Your secret
+ACCESS_SECRET=Your secret (random symbol combination)
 
 MONGODB_URI=Your MongoDB URI
 
